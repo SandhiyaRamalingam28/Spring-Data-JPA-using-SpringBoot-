@@ -1,0 +1,4 @@
+com\kgisl\springBootDemo\model\Person.class
+com\kgisl\springBootDemo\controller\PersonController.class
+com\kgisl\springBootDemo\repository\PersonRepository.class
+com\kgisl\springBootDemo\SpringBootDemoApplication.class
